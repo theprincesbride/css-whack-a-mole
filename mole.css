@@ -1,5 +1,29 @@
 /* Your code here */
+.wgs {
+  height:  482px;
+  width:  640px;
+  position:  relative;
+  display: inline-block;
+}
 
+.wgs-mole-head {
+  height:  356px;
+  width:  376px;
+  position:  absolute;
+  left: 109px;
+}
+
+.wgs-mole-hill {
+  height:  220px;
+  width:  640px;
+  position:  absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.wgs-mole-head--hidden {
+
+}
 
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
